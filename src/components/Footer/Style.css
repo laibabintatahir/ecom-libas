@@ -1,0 +1,114 @@
+/* Footer Styles */
+.footer {
+    background-color: #e7e5dc;
+    color: #181717;
+    padding: 40px 0;
+  }
+  
+  .footer-container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .footer-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .footer-col {
+    flex-basis: 30%;
+    margin-bottom: 40px;
+    color: #181717;
+  }
+  
+  .footer-heading {
+    color: #171716;
+    font-family: 'Cookie', cursive;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .footer-heading span {
+    color: #912e2e;
+  }
+  
+  .footer-description {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  
+  @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+
+  .footer-icons {
+    margin-top: 20px;
+  }
+  
+  .footer-icon {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: #f8f9f9;
+    color: #db1515;
+    font-size: 20px;
+    text-align: center;
+    line-height: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+    transition: background-color 0.3s ease;
+  }
+  
+  .footer-icon:hover {
+    background-color: #f3cab7;
+  }
+  
+  .footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: #171716;
+  }
+  
+  .footer-links li {
+    margin-bottom: 10px;
+    list-style: none;
+    color: #171716;
+  }
+  
+  .footer-links a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    color: #171716;
+  }
+  
+  .footer-links a:hover {
+    color: #f16363;;
+  }
+  
+  .footer-contact {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-contact li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-contact i {
+    margin-right: 10px;
+  }
+  
+  .footer-bottom {
+    background-color: #1f1d22;
+    padding: 10px 0;
+  }
+  
+  .footer-text {
+    color: #c7c9cb;
+    font-size: 12px;
+    text-align: center;
+  }
+  

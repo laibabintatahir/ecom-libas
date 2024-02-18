@@ -1,0 +1,80 @@
+
+      
+/* ContactUs.css */
+
+.contact-us-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    
+  }
+  .contact-us-container h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800px;
+  }
+  
+  .contact-us-container p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-details {
+    text-align: left;
+    margin-bottom: 30px;
+  }
+  
+  .contact-details p {
+    margin-bottom: 10px;
+  }
+  
+  .contact-details a {
+    color: #337ab7;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+    text-align: left;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form-group textarea {
+    resize: vertical;
+    min-height: 100px;
+  }
+  
+  .recaptcha {
+    font-size: 14px;
+    color: #888;
+  }
+  
+  button[type="submit"] {
+    background-color: #b41414;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #23527c;
+  }
+
